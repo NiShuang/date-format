@@ -8,12 +8,12 @@ System.out.println(DateUtil.parseDate("5 octobre 2018"));
 System.out.println(DateUtil.parseDate("22. Oktober 2018"));
 System.out.println(DateUtil.parseDate("2 ottobre 2018"));
 ````
-
 ````
-2018-10-27
-2018-10-24
-2018-10-19
-2018-10-5
-2018-10-22
-2018-10-2
+// 2018-8-11
+// 2018-10-27
+// 2018-10-24
+// 2018-10-19
+// 2018-10-5
+// 2018-10-22
+// 2018-10-2
 ````
